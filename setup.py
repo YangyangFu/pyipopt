@@ -12,7 +12,7 @@
 # for my linux distribution was buggy,
 # so by the time you read this the bugs have probably been fixed
 # and you will want to specify a different directory here.
-IPOPT_DIR = 'C:/Ipopt-3.11.1-win64-intel13.1/bin'
+IPOPT_DIR = 'C:/Ipopt-3.11.1-win64-intel13.1'
 
 import os
 from distutils.core import setup
